@@ -26,6 +26,7 @@ This dashboard transforms raw Airbnb data into interactive, visually engaging in
   * Availability & listing counts
     
 📌 Dashboard Pages & Features
+
 🔹 1. Overview Page (Performance Summary)
   * City-wise comparison of Airbnb listings
   * Price distribution trends
@@ -87,7 +88,7 @@ This dashboard transforms raw Airbnb data into interactive, visually engaging in
 📷 Dashboard Preview
 * Overview Page : (https://github.com/thakursushant352/AirBnb-Perfomance-Dashboard-/blob/main/Air%20Bnb%20Overview%20Page%201.png)
 * Rating Page : (https://github.com/thakursushant352/AirBnb-Perfomance-Dashboard-/blob/main/Air%20Bnb%20Rating%20Page%202%20img.png)
-* Review Page : 
+* Review Page : (https://github.com/thakursushant352/AirBnb-Perfomance-Dashboard-/blob/main/Air%20Bnb%20Reviews%20Page%20%203.png)
 
 ⭐ Support
 If you like this project, don’t forget to ⭐ the repository!

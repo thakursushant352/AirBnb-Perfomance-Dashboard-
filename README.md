@@ -86,7 +86,7 @@ This dashboard transforms raw Airbnb data into interactive, visually engaging in
  
 📷 Dashboard Preview
 * Overview Page : (https://github.com/thakursushant352/AirBnb-Perfomance-Dashboard-/blob/main/Air%20Bnb%20Overview%20Page%201.png)
-* Rating Page :
+* Rating Page : (https://github.com/thakursushant352/AirBnb-Perfomance-Dashboard-/blob/main/Air%20Bnb%20Rating%20Page%202%20img.png)
 * Review Page : 
 
 ⭐ Support
